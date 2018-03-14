@@ -1,0 +1,19 @@
+Source:	/Users/joshuataylor/SRC/ESP32-board/ESP32-board.sch
+Date:	2018 March 01, Thursday 18:22:19
+Tool:	Eeschema 4.0.7
+Component Count:	14
+Ref	Value	Part	Footprint	Description	Vendor
+J1	Screw_Terminal_1x04	ESP32-board-cache:Screw_Terminal_1x04	Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm		
+J2	Screw_Terminal_1x03	ESP32-board-cache:Screw_Terminal_1x03	Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm		
+J3	Screw_Terminal_1x03	ESP32-board-cache:Screw_Terminal_1x03	Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm		
+J4	Screw_Terminal_1x03	ESP32-board-cache:Screw_Terminal_1x03	Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm		
+J5	Screw_Terminal_1x04	ESP32-board-cache:Screw_Terminal_1x04	Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm		
+J6	Screw_Terminal_1x04	ESP32-board-cache:Screw_Terminal_1x04	Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm		
+J7	Screw_Terminal_1x03	ESP32-board-cache:Screw_Terminal_1x03	Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm		
+J8	Screw_Terminal_1x02	ESP32-board-cache:Screw_Terminal_1x02	Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm		
+J9	CONN_01X13	ESP32-board-cache:CONN_01X13	Pin_Headers:Pin_Header_Straight_1x13_Pitch2.54mm		
+J10	CONN_01X13	ESP32-board-cache:CONN_01X13	Pin_Headers:Pin_Header_Straight_1x13_Pitch2.54mm		
+R1	1k	device:R	Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	Resistor	
+R2	4.7k	device:R	Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	Resistor	
+U1	ULN2803A	interface:ULN2803A	Housings_DIP:DIP-18_W7.62mm	Darlington Transistor Arrays	
+U2	TC4427AEOA	TC4427AEOA:TC4427AEOA	Housings_DIP:DIP-8_W7.62mm		
